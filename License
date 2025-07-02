@@ -1,0 +1,14 @@
+
+---
+
+### ✅ Step 5: **LICENSE (Optional)**
+
+If you want to add a license, I recommend MIT for simplicity. Here's a quick [MIT License template](https://choosealicense.com/licenses/mit/).
+
+---
+
+### ✅ Step 6: **Push to GitHub**
+
+#### 1. Initialize Git
+```bash
+git init
